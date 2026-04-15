@@ -6,4 +6,4 @@ This repository documents my cybersecurity portfolio work, including practical i
 
 ### B1 – Weak Security Implementations  
 Access the full documentation and evidence here:  
-(./B1-Weak-Security/README.md)
+[View B1](./B1-Weak-Security/README.md)
