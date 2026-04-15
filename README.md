@@ -1,2 +1,9 @@
-# cybersecurity-portfolio-part-2
-This repository contains my cybersecurity portfolio work, including practical activities, implementations, and supporting evidence demonstrating key security concepts and vulnerabilities.
+# Cybersecurity Portfolio – Part 2
+
+This repository documents my cybersecurity portfolio work, including practical implementations, vulnerability analysis, and supporting evidence aligned with core security principles.
+
+## Contents
+
+### B1 – Weak Security Implementations  
+Access the full documentation and evidence here:  
+[View B1](./B1-Weak-Security/README.md)
