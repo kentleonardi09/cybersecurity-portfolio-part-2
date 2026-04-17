@@ -11,3 +11,8 @@ Access the full documentation and evidence here:
 ### B2 – Strong Security Implementations  
 Access the full documentation and evidence here:  
 [View B2](./B2-Strong-Security/)
+
+### B3 – Proactive Security Implementations  
+Access the full documentation and evidence here:  
+[View B3](./B3-Proactive-Security/README.md)
+
