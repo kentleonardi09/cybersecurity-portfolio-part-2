@@ -16,3 +16,10 @@ Access the full documentation and evidence here:
 Access the full documentation and evidence here:  
 [View B3](./B3-Proactive-Security/README.md)
 
+### B14 – Teaching Friends (Cybersecurity Awareness)  
+Access the full documentation and evidence here:  
+[View B14](./B14-Teaching-Friends/README.md)
+
+### B15 – Teaching Elderly (Cybersecurity Awareness)  
+Access the full documentation and evidence here:  
+[View B15](./B15-Teaching-Elderly/README.md)
