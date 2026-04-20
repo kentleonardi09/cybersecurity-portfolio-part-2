@@ -23,3 +23,7 @@ Access the full documentation and evidence here:
 ### B15 – Teaching Elderly (Cybersecurity Awareness)  
 Access the full documentation and evidence here:  
 [View B15](./B15-Teaching-Elderly/README.md)
+
+### B28 – Cyber Safety Flyer (Elderly Audience)  
+Access the full documentation and evidence here:  
+[View B28](./B28-Cyber-Safety-Flyer/README.md)
