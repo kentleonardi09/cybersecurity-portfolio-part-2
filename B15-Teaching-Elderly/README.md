@@ -1,25 +1,27 @@
-# B15 – Teaching an Elderly Person About Cybersecurity
+# B28 – Cyber Safety Flyer (Elderly Audience)
 
-This section demonstrates my ability to explain cybersecurity concepts clearly to an elderly individual through simple and practical teaching.
+This section demonstrates my ability to communicate cybersecurity concepts visually and effectively to a specific target audience through the design of a cyber safety flyer.
 
 ---
 
-## 1. Popoh – Software Updates
+## 1. Cyber Safety Flyer – Seniors
 
 ### Description
-I taught my grandmother (Popoh) the importance of keeping her device updated to the latest software.
+I created a cyber safety flyer designed specifically for elderly users using Canva. The goal of the flyer was to raise awareness of common cybersecurity threats such as online scams, phishing attempts, weak passwords, and fraudulent phone calls.
 
-Initially, she mentioned that she usually ignores update notifications and did not think they were important. She believed updates were only for new features and was unaware of their role in security.
+The content was simplified to ensure it is clear and easy to understand for individuals with limited technical knowledge. I included key sections such as scam awareness, password safety, and device security, each supported by practical advice and real-world examples. For example, phishing messages and strong password formats were used to help improve understanding.
 
-I explained that updates help fix security weaknesses and protect personal information. I used simple language and guided her step-by-step in checking for updates on her device.
+I also included a “Fun Fact” section to highlight that elderly individuals are often targeted by cybercriminals, reinforcing the importance of caution when using digital technologies. Additionally, a “What to Do if Scammed” section was added to provide simple, actionable steps users can follow if they encounter a cyber threat.
 
-By the end of the session, she understood the importance of updates and said she would install them in the future.
+The flyer was designed with a clear visual layout using headings, icons, and short bullet points to improve readability and engagement. This ensures that important information can be quickly understood and remembered.
 
 ---
 
 ### Evidence
-<img width="883" height="920" alt="image" src="https://github.com/user-attachments/assets/5c4a4f10-e894-437c-b9a3-9d59dac018e2" />
-<img width="878" height="894" alt="image" src="https://github.com/user-attachments/assets/34cb4afe-c00e-4cc7-9220-5df808c0ee81" />
+<img width="476" height="677" alt="image" src="https://github.com/user-attachments/assets/d74ad46c-af8c-448d-a059-52dbd5d49e2d" />
+
+
+---
 
 
 ---
