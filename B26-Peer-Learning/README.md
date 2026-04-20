@@ -1,4 +1,4 @@
-<img width="878" height="906" alt="image" src="https://github.com/user-attachments/assets/fdd8cff9-73c6-4c73-8086-eca8ce29bc7c" /># B26 – Peer Learning (Cybersecurity Concepts)
+# B26 – Peer Learning (Cybersecurity Concepts)
 
 This section demonstrates my ability to support another student in understanding cybersecurity concepts through collaborative discussion and peer teaching.
 
