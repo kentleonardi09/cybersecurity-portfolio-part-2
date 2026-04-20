@@ -24,6 +24,10 @@ Access the full documentation and evidence here:
 Access the full documentation and evidence here:  
 [View B15](./B15-Teaching-Elderly/README.md)
 
+### B26 – Peer Learning (Cybersecurity Concepts)  
+Access the full documentation and evidence here:  
+[View B26](./B26-Peer-Learning/README.md)
+
 ### B28 – Cyber Safety Flyer (Elderly Audience)  
 Access the full documentation and evidence here:  
 [View B28](./B28-Cyber-Safety-Flyer/README.md)
