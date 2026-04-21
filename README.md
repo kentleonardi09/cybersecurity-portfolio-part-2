@@ -28,6 +28,10 @@ Access the full documentation and evidence here:
 Access the full documentation and evidence here:  
 [View B15](./B15-Teaching-Elderly/README.md)
 
+### B16 - Survey of State-of-the-Art Cybersecurity Solutions
+Access the full documentation and evidence here:  
+[View B16](./B16-cybersecurity-survey/README.md)
+
 ### B21 - Cybersecurity Learning Activity  
 Access the full documentation and evidence here:  
 [View B21](./B21-Cybersecurity-Learning-Activity/README.md)
