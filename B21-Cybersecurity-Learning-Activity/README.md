@@ -4,8 +4,6 @@ This section demonstrates my ability to design and implement an interactive cybe
 
 ---
 
-## 1. Cybersecurity Learning Activity
-
 ### Description
 I created a cybersecurity learning activity using Google Forms to assess and improve participants' awareness of online security. The activity was designed to be simple, interactive, and suitable for general users with varying levels of cybersecurity knowledge.
 
