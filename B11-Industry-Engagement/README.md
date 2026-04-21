@@ -13,7 +13,8 @@ Rama explained that one of his latest projects involves performing security upli
 
 ### Evidence
 <img width="1600" height="702" alt="WhatsApp Image 2026-04-21 at 11 55 43 AM" src="https://github.com/user-attachments/assets/c6461026-c65f-4488-b8b9-c8392899385c" />
-<img width="1600" height="702" alt="WhatsApp Image 2026-04-21 at 11 55 43 AM" src="https://github.com/user-attachments/assets/42ba70e2-1291-430a-ae7d-9fe31b52760a" />
+<img width="889" height="962" alt="image" src="https://github.com/user-attachments/assets/cbd874fd-8c84-4774-b3af-f9fe996afcea" />
+
 
 
 ---
@@ -27,7 +28,8 @@ Joshua explained that one of his current projects focuses on Operational Technol
 
 ### Evidence
 <img width="1600" height="757" alt="WhatsApp Image 2026-04-21 at 11 56 23 AM" src="https://github.com/user-attachments/assets/f3919f82-2c55-43ed-94a6-f60c13097d60" />
-<img width="1600" height="757" alt="WhatsApp Image 2026-04-21 at 11 56 23 AM" src="https://github.com/user-attachments/assets/25f6148b-8e96-438f-b7ae-094e0ba64752" />
+<img width="738" height="1600" alt="image" src="https://github.com/user-attachments/assets/cb5ef7cd-68de-4af2-816e-395b998685c7" />
+
 
 
 - Screenshot of conversation (messages / meeting proof)
