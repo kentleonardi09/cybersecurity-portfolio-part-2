@@ -16,6 +16,10 @@ Access the full documentation and evidence here:
 Access the full documentation and evidence here:  
 [View B3](./B3-Proactive-Security/README.md)
 
+### B11 – Industry Engagement with Cybersecurity Experts  
+Access the full documentation and evidence here:  
+[View B11](./B11-Industry-Engagement/README.md)
+
 ### B14 – Teaching Friends (Cybersecurity Awareness)  
 Access the full documentation and evidence here:  
 [View B14](./B14-Teaching-Friends/README.md)
