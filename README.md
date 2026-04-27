@@ -16,6 +16,10 @@ Access the full documentation and evidence here:
 Access the full documentation and evidence here:  
 [View B3](./B3-Proactive-Security/README.md)
 
+### B5 - Cybersecurity Talks
+Access the full documentation and evidence here:  
+[View B5](./B5-Cybersecurity-Talks/README.md)
+
 ### B7 – Cybersecurity Club Activity  
 Access the full documentation and evidence here:  
 [View B7](./B7-Cybersecurity-Club-Activity/README.md)
