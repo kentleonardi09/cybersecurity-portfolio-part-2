@@ -46,7 +46,7 @@ Access the full documentation and evidence here:
 
 ### B27 - Real-World Application (Password Hashing)
 Access the full documentation and evidence here:  
-[View B27](./B27-Password-Hashing-Application/README.md)
+[View B27](./B27-Real-World-Application/README.md)
 
 ### B28 – Cyber Safety Flyer (Elderly Audience)  
 Access the full documentation and evidence here:  
