@@ -40,6 +40,10 @@ Access the full documentation and evidence here:
 Access the full documentation and evidence here:  
 [View B16](./B16-cybersecurity-survey/README.md)
 
+### B17 – Authentication Implementation  
+Access the full documentation and evidence here:  
+[View B17](./B17-Authentication-Implementation/README.md)
+
 ### B21 - Cybersecurity Learning Activity  
 Access the full documentation and evidence here:  
 [View B21](./B21-Cybersecurity-Learning-Activity/README.md)
