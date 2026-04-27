@@ -53,6 +53,7 @@ I found out that hands-on experience is essential in cybersecurity, not just the
 ### Evidence
 <img width="983" height="556" alt="image" src="https://github.com/user-attachments/assets/4dd5c7cc-6456-4dfb-987f-165ac9542aa8" />
 
+<img width="1919" height="915" alt="image" src="https://github.com/user-attachments/assets/6cd3fb45-3095-4921-8239-fdc9b123fcd0" />
 
 ---
 
