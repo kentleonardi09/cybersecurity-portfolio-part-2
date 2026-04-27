@@ -44,6 +44,10 @@ Access the full documentation and evidence here:
 Access the full documentation and evidence here:  
 [View B26](./B26-Peer-Learning/README.md)
 
+### B27 - Real-World Application (Password Hashing)
+Access the full documentation and evidence here:  
+[View B27](./B27-Password-Hashing-Application/README.md)
+
 ### B28 – Cyber Safety Flyer (Elderly Audience)  
 Access the full documentation and evidence here:  
 [View B28](./B28-Cyber-Safety-Flyer/README.md)
