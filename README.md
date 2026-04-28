@@ -72,7 +72,7 @@ Access the full documentation and evidence here:
 Access the full documentation and evidence here:  
 [View B28](./B28-Cyber-Safety-Flyer/README.md)
 
-### B29 – CVE Fix Using Generative AI  
+### B29 – Fixing a CVE Using Generative AI  
 Access the full documentation and evidence here:  
 [View B29](./B29-CVE-Fix-Using-Generative-AI/README.md)
 
