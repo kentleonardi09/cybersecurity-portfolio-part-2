@@ -1,4 +1,4 @@
-## B24 – Access Control Implementation
+# B24 – Access Control Implementation
 
 This section demonstrates the design and implementation of an access control mechanism using built-in Linux file permissions.
 
