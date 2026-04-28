@@ -16,6 +16,10 @@ Access the full documentation and evidence here:
 Access the full documentation and evidence here:  
 [View B3](./B3-Proactive-Security/README.md)
 
+### B4 – Participation in In-Class Lab Activities  
+Access the full documentation and evidence here:  
+[View B4](./B4-Lab-Activities/README.md)
+
 ### B5 - Cybersecurity Talks
 Access the full documentation and evidence here:  
 [View B5](./B5-Cybersecurity-Talks/README.md)
