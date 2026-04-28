@@ -48,13 +48,13 @@ Access the full documentation and evidence here:
 Access the full documentation and evidence here:  
 [View B21](./B21-Cybersecurity-Learning-Activity/README.md)
 
+## B23 – Intrusion Detection System Testing  
+Access the full documentation and evidence here:  
+[View B23](./B23-Intrusion-Detection-System-Test/README.md)
+
 ### B26 – Peer Learning (Cybersecurity Concepts)  
 Access the full documentation and evidence here:  
 [View B26](./B26-Peer-Learning/README.md)
-
-### B27 – Intrusion Detection System Testing  
-Access the full documentation and evidence here:  
-[View B27](./B27-Intrusion-Detection-System-Test/README.md)
 
 ### B27 - Real-World Application (Password Hashing)
 Access the full documentation and evidence here:  
