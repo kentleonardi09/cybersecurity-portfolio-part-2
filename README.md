@@ -64,10 +64,10 @@ Access the full documentation and evidence here:
 Access the full documentation and evidence here:  
 [View B27](./B27-Real-World-Application/README.md)
 
-### B29 – CVE Fix Using Generative AI  
-Access the full documentation and evidence here:  
-[View B29](./B29/README.md)
-
 ### B28 – Cyber Safety Flyer (Elderly Audience)  
 Access the full documentation and evidence here:  
 [View B28](./B28-Cyber-Safety-Flyer/README.md)
+
+### B29 – CVE Fix Using Generative AI  
+Access the full documentation and evidence here:  
+[View B29](./B29-CVE-Fix-Using-Generative-AI/README.md)
