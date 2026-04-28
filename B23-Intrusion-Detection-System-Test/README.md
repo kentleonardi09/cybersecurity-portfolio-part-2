@@ -1,4 +1,4 @@
-# B27 – Intrusion Detection System Testing
+# B23 – Intrusion Detection System Testing
 
 This section demonstrates the application of a cybersecurity concept by testing an intrusion detection system (IDS) in a controlled environment. The experiment evaluates how effectively the IDS detects simulated attack behaviour.
 
