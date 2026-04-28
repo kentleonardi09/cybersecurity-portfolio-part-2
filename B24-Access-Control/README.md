@@ -1,4 +1,4 @@
-<img width="857" height="712" alt="image" src="https://github.com/user-attachments/assets/8b9e6398-8fcf-4226-9c82-0109c6bf7de1" /># B24 – Access Control Implementation
+## B24 – Access Control Implementation
 
 This section demonstrates the design and implementation of an access control mechanism using built-in Linux file permissions.
 
