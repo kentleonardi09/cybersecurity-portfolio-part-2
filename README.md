@@ -52,6 +52,10 @@ Access the full documentation and evidence here:
 Access the full documentation and evidence here:  
 [View B23](./B23-Intrusion-Detection-System-Test/README.md)
 
+### B24 – Access Control Implementation  
+Access the full documentation and evidence here:  
+[View B24](./B24-Access-Control/README.md)
+
 ### B26 – Peer Learning (Cybersecurity Concepts)  
 Access the full documentation and evidence here:  
 [View B26](./B26-Peer-Learning/README.md)
