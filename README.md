@@ -52,6 +52,10 @@ Access the full documentation and evidence here:
 Access the full documentation and evidence here:  
 [View B26](./B26-Peer-Learning/README.md)
 
+### B27 – Intrusion Detection System Testing  
+Access the full documentation and evidence here:  
+[View B27](./B27-Intrusion-Detection-System-Test/README.md)
+
 ### B27 - Real-World Application (Password Hashing)
 Access the full documentation and evidence here:  
 [View B27](./B27-Real-World-Application/README.md)
