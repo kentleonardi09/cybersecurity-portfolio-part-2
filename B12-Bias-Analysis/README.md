@@ -39,4 +39,6 @@ Bias appears through differences in tone and emphasis, reflecting patterns in tr
 ---
 
 ## Evidence  
-(Add screenshots here)
+<img width="899" height="697" alt="image" src="https://github.com/user-attachments/assets/a46aa15c-0aa6-4110-88c9-1de81ad9e79e" />
+<img width="602" height="338" alt="image" src="https://github.com/user-attachments/assets/3d4a97ab-8528-4d0a-abf8-93c20156d676" />
+
