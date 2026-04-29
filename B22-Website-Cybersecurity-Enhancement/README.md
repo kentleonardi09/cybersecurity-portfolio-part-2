@@ -43,16 +43,9 @@ Weak or missing CSP (unsafe-inline, wildcard) allows malicious scripts.
 ---
 
 ## Evidence (OWASP ZAP Findings)
+<img width="868" height="703" alt="WhatsApp Image 2026-04-29 at 2 55 25 PM" src="https://github.com/user-attachments/assets/dadced56-0209-4f8e-8ffa-617d74de067d" />
+<img width="1255" height="1015" alt="WhatsApp Image 2026-04-29 at 3 01 50 PM" src="https://github.com/user-attachments/assets/6cc11f89-5059-49ff-b430-706a827b475e" />
 
-- Absence of Anti-CSRF Tokens  
-- Content Security Policy (CSP) Header Not Set  
-- CSP Wildcard Directive  
-- CSP script-src unsafe-inline  
-- CSP style-src unsafe-inline  
-- Missing Anti-clickjacking Header  
-- Cookie No HttpOnly Flag  
-- Cookie Without Secure Flag  
-- Cookie without SameSite Attribute  
 
 ---
 
