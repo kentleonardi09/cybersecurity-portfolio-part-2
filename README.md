@@ -32,6 +32,10 @@ Access the full documentation and evidence here:
 Access the full documentation and evidence here:  
 [View B11](./B11-Industry-Engagement/README.md)
 
+### B12 – Bias Analysis  
+Access the full documentation and evidence here:  
+[View B12](./B12-Bias-Analysis/README.md)
+
 ### B14 – Teaching Friends (Cybersecurity Awareness)  
 Access the full documentation and evidence here:  
 [View B14](./B14-Teaching-Friends/README.md)
