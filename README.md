@@ -56,6 +56,10 @@ Access the full documentation and evidence here:
 Access the full documentation and evidence here:  
 [View B21](./B21-Cybersecurity-Learning-Activity/README.md)
 
+### B22 – Website Cybersecurity Enhancement  
+Access the full documentation and evidence here:  
+[View B22](./B22-Website-Cybersecurity-Enhancement/README.md)
+
 ### B23 – Intrusion Detection System Testing  
 Access the full documentation and evidence here:  
 [View B23](./B23-Intrusion-Detection-System-Test/README.md)
