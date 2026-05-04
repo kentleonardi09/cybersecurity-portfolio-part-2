@@ -24,6 +24,10 @@ Access the full documentation and evidence here:
 Access the full documentation and evidence here:  
 [View B5](./B5-Cybersecurity-Talks/README.md)
 
+### B6 – Cyber Ethics and Law Engagement  
+Access the full documentation and evidence here:  
+[View B6](./B6-Cyber-Ethics/README.md)
+
 ### B7 – Cybersecurity Club Activity  
 Access the full documentation and evidence here:  
 [View B7](./B7-Cybersecurity-Club-Activity/README.md)
