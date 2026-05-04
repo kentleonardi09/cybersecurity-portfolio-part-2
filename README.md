@@ -60,6 +60,10 @@ Access the full documentation and evidence here:
 Access the full documentation and evidence here:  
 [View B17](./B17-Authentication-Implementation/README.md)
 
+### B20 – Enhance the Security of a GitHub Project  
+Access the full documentation and evidence here:  
+[View B20](./B20-GitHub-Security/README.md)
+
 ### B21 - Cybersecurity Learning Activity  
 Access the full documentation and evidence here:  
 [View B21](./B21-Cybersecurity-Learning-Activity/README.md)
