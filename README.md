@@ -36,6 +36,10 @@ Access the full documentation and evidence here:
 Access the full documentation and evidence here:  
 [View B12](./B12-Bias-Analysis/README.md)
 
+### B13 – AI Jailbreak & Prompt Injection Analysis  
+Access the full documentation and evidence here:  
+[View B13](./B13-AI-Jailbreak-Prompt-Injection-Analysis/README.md)
+
 ### B14 – Teaching Friends (Cybersecurity Awareness)  
 Access the full documentation and evidence here:  
 [View B14](./B14-Teaching-Friends/README.md)
