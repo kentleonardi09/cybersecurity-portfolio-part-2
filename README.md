@@ -32,6 +32,10 @@ Access the full documentation and evidence here:
 Access the full documentation and evidence here:  
 [View B7](./B7-Cybersecurity-Club-Activity/README.md)
 
+### B9 – Participate in an Industry-Related Cybersecurity Event  
+Access the full documentation and evidence here:  
+[View B9](./B9-Participate-in-an-Industry-Related-Cybersecurity-Event/)
+
 ### B11 – Industry Engagement with Cybersecurity Experts  
 Access the full documentation and evidence here:  
 [View B11](./B11-Industry-Engagement/README.md)
